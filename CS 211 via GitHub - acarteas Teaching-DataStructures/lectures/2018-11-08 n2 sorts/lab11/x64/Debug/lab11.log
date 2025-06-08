@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\cs 211 data structures\cs 211 via github\lectures\2018-11-08 n2 sorts\lab11\main.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lab11.vcxproj -> D:\CS 211 Data Structures\CS 211 via Github\lectures\2018-11-08 n2 sorts\x64\Debug\lab11.exe
