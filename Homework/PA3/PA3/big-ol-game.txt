@@ -1,0 +1,41 @@
+Does it walk on 4 legs?
+Does it fly?
+Does it have a shell?
+Does it have more than 6 legs?
+Does it have scales?
+*ant?
+*fish?
+Is it an arachnid?
+*centipede?
+*spider?
+Does it have a distinctive walk?
+*water snail?
+*crab?
+Is it an insect?
+Is it a mammal?
+*bird?
+*bat?
+Is it commonly seen as a pest?
+Does it have large, attractive wings?
+*bee?
+*butterfly?
+*fly?
+Does it purr?
+Does it howl?
+Does it have tusks?
+Is it often referred to as "trash panda"?
+Is it small?
+Is it a vulpine animal? 
+Does it hibernate during the winter?
+*horse?
+*bear?
+*fox?
+Does it hop around?
+Does it have fur?
+*turtle?
+*mouse?
+*rabbit?
+*raccoon?
+*elephant?
+*dog?
+*cat?

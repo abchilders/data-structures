@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\cs 211 data structures\labs\lab9\lab9\main.cpp(53): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lab9.vcxproj -> D:\CS 211 Data Structures\Labs\lab9\Debug\lab9.exe

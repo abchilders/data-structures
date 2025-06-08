@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\cs 211 data structures\labs\lab10\lab10\main.cpp(118): warning C4018: '>': signed/unsigned mismatch
+d:\cs 211 data structures\labs\lab10\lab10\main.cpp(127): warning C4018: '<=': signed/unsigned mismatch
+  Lab10.vcxproj -> D:\CS 211 Data Structures\Labs\Lab10\Debug\Lab10.exe
